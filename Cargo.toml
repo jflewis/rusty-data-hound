@@ -1,0 +1,7 @@
+[package]
+name = "rusty-data-hound"
+version = "0.1.0"
+authors = ["lewisjf1"]
+
+[dependencies]
+pcap = "0.7"
