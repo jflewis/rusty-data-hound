@@ -5,3 +5,6 @@ authors = ["lewisjf1"]
 
 [dependencies]
 pcap = "0.7"
+termion = "*"
+dns-lookup = "0.8.1"
+
